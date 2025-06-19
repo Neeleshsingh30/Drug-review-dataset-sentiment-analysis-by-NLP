@@ -1,10 +1,4 @@
-# Drug-review-dataset-sentiment-analysis-by-NLP
-
-Here's the revised **README.md** tailored for a general sentiment analysis model instead of BioBERT:
-
----
-
-# **Drug Review Sentiment Analysis Using NLP and Transformers**
+# **Drug Review Sentiment Analysis Using NLP**
 
 This project analyzes the **Drug Review Dataset** to uncover insights into drug usage, effectiveness, and patient sentiment. It employs **Natural Language Processing (NLP)** techniques and a general **sentiment analysis model** from Hugging Face Transformers.
 
